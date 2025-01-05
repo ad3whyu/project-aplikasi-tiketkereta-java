@@ -26,7 +26,7 @@ Aplikasi ini dibangun dengan konsep CRUD (Create, Read, Update, Delete) mengguna
 - Database: MySQL
 # Cara Instalasi dan Penggunaan
 - Prasyarat
-  - Java Development Kit (JDK) versi 8 atau lebih baru.
+  - Java Development Kit (JDK) versi 8.
   - IDE NetBeans 8.2.
 - Langkah Instalasi
   - Pastikan Folder project di simpan di direktori D agar meminimalisir eror dan sinkroniasi lokasi file, jika tidak memiliki direktori D harus mengubah path di dalam kode untuk mencocokkan lokasi file yang sesuai dengan direktori yang ada di komputer kalian
@@ -35,7 +35,7 @@ Aplikasi ini dibangun dengan konsep CRUD (Create, Read, Update, Delete) mengguna
     ```
   - Langkah impor database ke MySQL:
     - Buat database baru dengan nama db_tiketkereta
-    - Impor file db_tiketkereta.sql ke database yang baru dibuat menggunakan MySQL (dapat diambil di: )
+    - Import file db_tiketkereta.sql ke database yang baru dibuat menggunakan MySQL (dapat diambil di: )
       ```sh
       D:\SEMESTER 3\PRAK-BP1\DATABASE\db_tiketkereta.sql
       ```
